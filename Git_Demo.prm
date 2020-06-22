@@ -1,0 +1,9 @@
+[parameter:p_FirstName]
+Format="Git_Demo%H:%M:%S"
+GenerateNewVal="EachIteration"
+Offset=""
+OffsetUI="0"
+OriginalValue="Git_Demo"
+ParamName="p_FirstName"
+Type="Time"
+WorkingDaysOn="0"
